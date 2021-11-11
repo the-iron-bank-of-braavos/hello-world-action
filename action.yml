@@ -1,0 +1,4 @@
+name: hello-world-action
+description: hello world action
+runs:
+  main: index.js
